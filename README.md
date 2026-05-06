@@ -5,11 +5,11 @@ I'm a data analyst based in Nairobi, Kenya with a background in finance. I work 
 I'm currently building my portfolio through end-to-end projects that answer real business questions, from uncovering why employees leave to identifying what makes a beauty product succeed.
 
 What I work with:
-🔹 Excel — data cleaning, PivotTables, exploratory analysis
+🔹 Excel - data cleaning, PivotTables, exploratory analysis
 
-🔹 SQL (MySQL) — querying, aggregation, business question answering
+🔹 SQL (MySQL) - querying, aggregation, business question answering
 
-🔹 Power BI — interactive dashboards, KPI scorecards, data storytelling
+🔹 Power BI - interactive dashboards, KPI scorecards, data storytelling
 
 Currently: Open to Data Analyst roles in Nairobi and remote | Available immediately
 
